@@ -16,3 +16,7 @@ git clone https://github.com/litaylor/virtual-closet.git
 - Set MAMP's Apache and Nginx ports to 8888
 - Set MAMP's MySQL port to 8889
 - Open http://localhost:8888 in your web browser
+
+## Documentation
+
+Read the entire Clean API Reference at https://www.gitbook.com/book/litaylor/clean-api-documentation/details.
