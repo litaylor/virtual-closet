@@ -1,6 +1,6 @@
 <p align="center"><img src="public/logo-png.png" height="200" width="auto"></p>
 
-## Clean API
+# Clean API
 
 Clean is an API system for a virtual closet app. Developers can use RESTful clients to create and edit PEOPLE, their ITEMS of clothing and their planned OUTFITS.
 
@@ -16,5 +16,3 @@ git clone https://github.com/litaylor/virtual-closet.git
 - Set MAMP's Apache and Nginx ports to 8888
 - Set MAMP's MySQL port to 8889
 - Open http://localhost:8888 in your web browser
-
-# virtual-closet
