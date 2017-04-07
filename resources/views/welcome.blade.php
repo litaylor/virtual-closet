@@ -62,7 +62,7 @@
             <div class="col-xs-12 col-md-6 col-md-offset-3 description text-center">
               <p>The Clean API is a system for creating and editing users and items in a virtual closet.</p>
               <p>Each <b>person</b> can be assigned <b>items</b> of clothing, which can be arranged into <b>outfits</b>.</p>
-              <p>For more, see the <a href="#">Clean documentation</a>.</p>
+              <p>For more, see the <a href="https://www.gitbook.com/book/litaylor/clean-api-documentation/details">Clean documentation</a>.</p>
               <p>Created by <a href="https://github.com/litaylor"><img src="GitHub-Mark-32px.png">Langston Taylor</a>.</p>
             </div>
           </div>
