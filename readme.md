@@ -1,4 +1,4 @@
-<p align="center"><img src="public/GitHub-Mark-32px.png"></p>
+<p align="center"><img src="public/logo-png.png" height="200" width="auto"></p>
 
 ## About Laravel
 
